@@ -1,4 +1,4 @@
-# xAI-reading-group-MA-IITM
+# xAI reading group @ MA-IITM
 Reading group for Explainable AI at the Department of Mathematics, IIT Madras, led by [rakhi](https://github.com/agrakhi)
 
 The course is adapted from [Su-In Lee at Washington State University.](https://sites.google.com/cs.washington.edu/xai/home?authuser=0)
