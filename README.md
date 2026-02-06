@@ -19,7 +19,7 @@ The goal of this reading group is to:
 | Week | Topic | Core Paper | Slides | Summary |
 |------|-------|------------|--------|---------|
 | 1 | Why Explainability Exists | [Statistical Modeling: The Two Cultures](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling-The-Two-Cultures/10.1214/ss/1009213726.full) | [slides](Week1/Week1_slides.pdf) by [rakhi](https://github.com/agrakhi) | [summary](Week1/Summary.pdf) by [Ritika](https://github.com/ma25m022-Ritika) |
-| 2 | LIME: Local Surrogate Explanations | [Why Should I Trust You? Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) |[slides](https://github.com/agrakhi/xAI-reading-group-MA-IITM/blob/main/Week2/Week2_Slides.pdf) by [Ritika](https://github.com/ma25m022-Ritika)  |  |
+| 2 | LIME: Local Surrogate Explanations | [Why Should I Trust You? Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) |[slides](https://github.com/agrakhi/xAI-reading-group-MA-IITM/blob/main/Week2/Week2_Slides.pdf) by [Ritika](https://github.com/ma25m022-Ritika)  | [summary](Week2/summary_week2.pdf) by [rakhi](https://github.com/agrakhi)  |
 | 3 | Experimental Design for Explainability | [Green LIME: Improving AI Explainability through Design of Experiments](https://arxiv.org/abs/2502.12753) |  |  |
 | 4 | Stability of LIME | [Are Your Explanations Reliable? Investigating the Stability of LIME in Explaining Text Classifiers by Marrying XAI and Adversarial Attack](https://aclanthology.org/2023.emnlp-main.792.pdf) |  |  |
 | 5 | Shapley Values: Theory and Axioms | [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874) |  |  |
