@@ -26,7 +26,7 @@ The goal of this reading group is to:
 | 6 | Saliency Maps Attribution | [Sanity Checks for Saliency Maps](https://arxiv.org/pdf/1810.03292) | [slides](https://github.com/agrakhi/xAI-reading-group-MA-IITM/blob/main/Week6/XAI_Week6.pdf) by [Anushka](https://github.com/MathurAnushka) |  |
 | 7 | Data-Centric Explanations | [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/abs/1703.04730) | [slides](https://github.com/agrakhi/xAI-reading-group-MA-IITM/blob/main/Week7/XAI-Influence%20Fns.pdf) by [Sagnik](https://github.com/Sagnik-Barman) | [notes](https://github.com/agrakhi/xAI-reading-group-MA-IITM/blob/main/Week7/Notes_IF.pdf) by [Anushka](https://github.com/MathurAnushka) |
 | 8 | Removal-Based Explanations | [RISE: Randomized Input Sampling for Explanation of Black-box Models](https://arxiv.org/abs/1806.07421) | [slides](https://github.com/agrakhi/xAI-reading-group-MA-IITM/blob/main/Week8/RISE%20presentation.pdf) by [Aritra](https://github.com/rtrdsgpt) |  |
-| 9 | Synthesis and Conclusion | [The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490) | [slides]() by [Charu](https://github.com/Charu-Mittal12) |  |
+| 9 | Synthesis and Conclusion | [The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490) | [slides](https://github.com/agrakhi/xAI-reading-group-MA-IITM/blob/main/Week9/XAI_Final_Charu%20(4).pdf) by [Charu](https://github.com/Charu-Mittal12) |  |
 
 ---
 
